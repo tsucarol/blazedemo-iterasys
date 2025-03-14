@@ -1,0 +1,10 @@
+Abordagens úteis em projetos com vida útil maior:
+
+Projeto utilizando a abordagem BDD (Behavior Driven Development) - Desenvolvimento Direcionado por Comportamento
+--> Foco do BDD é melhorar a comunicação do time
+--> Usar um plugin / framework chamado Cucumber
+--> Seguir a sintaxe Gherkin
+
+Um teste será composto por 2 arquivos:
+- arquivo de negócio, escrito em Gherkin (.feature)
+- arquivo de automação, que faz referência ao .feature
